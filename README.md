@@ -1,6 +1,12 @@
 # HOTEL-MANAGEMENT-SYSTEM
+
+
 # PYTHON INPUT TO BE TYPED IN PYTHON INTERPRETER.....
-This project serves as a step towards hotel management problems and to solve it with ease :)
+
+
+# This project serves as a step towards hotel management problems and to solve it with ease :)
+
+
 import mysql.connector import mysql.connector as mycon
 con	=
 mycon.connect(host="localhost",user="root",passwd="admin123",database="hot el",auth_plugin='mysql_native_password')
@@ -75,7 +81,10 @@ if con.is_connected(): showmenu()
 
 
 
+
 # MySQL Code TO BE TYPED IN MySQL ENVIRONMENT.....
+
+
 ●	create database hotel;
 ●	use hotel;
 ●	create table rooms(rno integer primary key, type varchar(255), loc varchar(255), guest integer, rent integer, status varchar(255));
