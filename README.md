@@ -4,7 +4,7 @@
 # This project serves as a step towards hotel management problems and to solve it with ease :)
 
 
-# PYTHON INPUT TO BE TYPED IN PYTHON INTERPRETER.....
+# Python code to be typed in the interpreter.....
 
 
 import mysql.connector import mysql.connector as mycon
@@ -82,7 +82,7 @@ if con.is_connected(): showmenu()
 
 
 
-# MySQL Code TO BE TYPED IN MySQL ENVIRONMENT.....
+# MySQL code to be typed in MySQL Environment.....
 
 
 ●	create database hotel;
