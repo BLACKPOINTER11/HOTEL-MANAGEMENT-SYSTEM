@@ -1,10 +1,10 @@
 # HOTEL-MANAGEMENT-SYSTEM
 
 
-# PYTHON INPUT TO BE TYPED IN PYTHON INTERPRETER.....
-
-
 # This project serves as a step towards hotel management problems and to solve it with ease :)
+
+
+# PYTHON INPUT TO BE TYPED IN PYTHON INTERPRETER.....
 
 
 import mysql.connector import mysql.connector as mycon
